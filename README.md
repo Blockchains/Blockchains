@@ -27,6 +27,24 @@ Sites, ventures and research by **Ismail Malik** — blockchain, AI agents, regu
 Descriptions are each site's own meta description. Live status, Lighthouse scores and SEO checks for every site:
 **[blockchains.github.io/sites-monitor](https://blockchains.github.io/sites-monitor/)**.
 
+## Blockchain Lab open source
+
+[![services](https://img.shields.io/endpoint?url=https%3A%2F%2Fblockchains.github.io%2Fdata%2Fbadge.json)](https://blockchains.github.io/status/)
+[![catalog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fblockchains.github.io%2Fservices.json&query=%24.count&label=free%20services&color=5eead4)](https://blockchains.github.io/)
+[![AI brief](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fblockchains.github.io%2Fdata%2Fai%2Fbrief.json&query=%24.date&label=AI%20brief&color=818cf8)](https://blockchains.github.io/ai/brief/)
+[![labs ci](https://github.com/Blockchains/blockchainlab-labs/actions/workflows/ci.yml/badge.svg)](https://github.com/Blockchains/blockchainlab-labs)
+
+**[Blockchain Lab Hub — blockchains.github.io](https://blockchains.github.io/)**: one search for every free service, each with a live status badge.
+
+| | What | Link |
+|---|---|---|
+| 🔎 | **Hub** — 75 services: AI briefs (Grok), gas/RPC/chain monitors, security scans, jobs, grants, events | [blockchains.github.io](https://blockchains.github.io/) |
+| 🛠 | **Tools** — 26 client-side dev tools (Safe, EIP-712, approvals, MEV, PSBT…) | [blockchainlab-tools](https://blockchains.github.io/blockchainlab-tools/) |
+| 📦 | **Data API** — 20 free JSON datasets with schemas + OpenAPI | [blockchainlab-api](https://blockchains.github.io/blockchainlab-api/) |
+| 🧰 | **SDK** (TypeScript + Python) and **MCP server** (43 tools, Docker) | [sdk](https://github.com/Blockchains/blockchainlab-sdk) · [mcp](https://github.com/Blockchains/blockchainlab-mcp) |
+| 🧪 | **54 labs** — Solidity/Foundry, Noir ZK, Cairo — all tested in CI | [blockchainlab-labs](https://github.com/Blockchains/blockchainlab-labs) |
+| 🤖 | **AI services** — daily market brief, contract explainers, audit checklists, whitepaper summaries | [blockchains.github.io/ai](https://blockchains.github.io/ai/) |
+
 ## Projects on GitHub
 
 - [**sites-monitor**](https://github.com/Blockchains/sites-monitor) — uptime, TLS, SEO, broken-link, Lighthouse and security monitoring with a public status page
