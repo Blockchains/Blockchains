@@ -52,3 +52,10 @@ Descriptions are each site's own meta description. Live status, Lighthouse score
 - [**hackathons**](https://github.com/Blockchains/hackathons) — Blockchain Lab hackathon tracker (open blockchain / web3 hackathons)
 - [**hackathon-entry-template**](https://github.com/Blockchains/hackathon-entry-template) — template repo for hackathon submissions
 - [**HoodPilot**](https://github.com/Blockchains/HoodPilot) · [**HoodPilots**](https://github.com/Blockchains/HoodPilots) · [**relic**](https://github.com/Blockchains/relic)
+
+## Contributing
+
+Issues and pull requests are welcome. Please read the [contributing guide](https://github.com/Blockchains/.github/blob/main/CONTRIBUTING.md), [code of conduct](https://github.com/Blockchains/.github/blob/main/CODE_OF_CONDUCT.md) and [security policy](https://github.com/Blockchains/.github/blob/main/SECURITY.md) first.
+
+---
+Built by Blockchain Lab — [blockchainlab.com](https://blockchainlab.com/?utm_source=github&utm_medium=readme&utm_campaign=Blockchains)
