@@ -44,6 +44,7 @@ Descriptions are each site's own meta description. Live status, Lighthouse score
 | 🧰 | **SDK** (TypeScript + Python) and **MCP server** (43 tools, Docker) | [sdk](https://github.com/Blockchains/blockchainlab-sdk) · [mcp](https://github.com/Blockchains/blockchainlab-mcp) |
 | 🧪 | **54 labs** — Solidity/Foundry, Noir ZK, Cairo — all tested in CI | [blockchainlab-labs](https://github.com/Blockchains/blockchainlab-labs) |
 | 🤖 | **AI services** — daily market brief, contract explainers, audit checklists, whitepaper summaries | [blockchains.github.io/ai](https://blockchains.github.io/ai/) |
+| 🧱 | **Build with Blocks** — every repo documented as a reusable block for AI tools and humans: `AGENTS.md`, `llms.txt`, `blocks.json`, 3 verified recipes | [guide](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md) · [llms.txt](https://blockchains.github.io/llms.txt) · [blocks.json](https://blockchains.github.io/blocks.json) |
 
 ## Projects on GitHub
 

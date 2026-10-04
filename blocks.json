@@ -1,0 +1,49 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Blockchains/.github/main/docs/blocks.schema.json",
+  "schema_version": "1.0",
+  "name": "Blockchains",
+  "repo": "Blockchains/Blockchains",
+  "summary": "GitHub profile README for Ismail Malik / Blockchain Lab: live sites, the open-source toolkit and pointers to Build with Blocks.",
+  "kind": [
+    "docs"
+  ],
+  "stability": "stable",
+  "license": "NOASSERTION",
+  "entrypoints": [
+    {
+      "type": "file",
+      "name": "README.md",
+      "ref": "README.md",
+      "usage": "https://github.com/Blockchains"
+    }
+  ],
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "profile page",
+      "type": "Markdown"
+    }
+  ],
+  "deps": [
+    "none"
+  ],
+  "compatible_with": [
+    {
+      "repo": "Blockchains/.github",
+      "how": "org docs: BUILD-WITH-BLOCKS, BLOCKS-SCHEMA"
+    },
+    {
+      "repo": "Blockchains/blockchains.github.io",
+      "how": "hub, llms.txt and blocks catalogue"
+    }
+  ],
+  "tests": {
+    "command": "# none (Markdown only)",
+    "network": false
+  },
+  "docs": {
+    "readme": "README.md",
+    "agents": "AGENTS.md",
+    "llms": "llms.txt"
+  }
+}
